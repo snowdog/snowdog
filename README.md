@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-With over 17 years of experience in web development, I'm a CEO of Snowdog, a leading digital agency that specializes in unified commerce solutions. I have been recognized as a Magento Master Maker four times for my contributions to the open source community and the Magento ecosystem. I am also a former board member of the Magento Association and vice president of the Meet Magento Association, where I have been actively involved in organizing and supporting international e-commerce events and initiatives. 
+With over 17 years of experience in web development, I'm a CEO of [Snowdog](https://snow.dog), a leading digital agency that specializes in unified commerce solutions. I have been recognized as a Magento Master Maker four times for my contributions to the open source community and the Magento ecosystem. I am also a former board member of the Magento Association and vice president of the Meet Magento Association, where I have been actively involved in organizing and supporting international e-commerce events and initiatives. Currently supporter of [Mage-OS Magento Distribution](https://mage-os.org).
 
 ### More stuff 😄
 
