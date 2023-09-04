@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+With over 17 years of experience in web development, I'm a CEO of Snowdog, a leading digital agency that specializes in unified commerce solutions. I have been recognized as a Magento Master Maker four times for my contributions to the open source community and the Magento ecosystem. I am also a former board member of the Magento Association and vice president of the Meet Magento Association, where I have been actively involved in organizing and supporting international e-commerce events and initiatives. 
+
+### More stuff 😄
+
+- 💬 Ask me about e-commerce- I'm always willing to share knowledge
+- ⚡ Interesting fact: you can get the best watches for all your business & adventures at my frieds place - [Zegarownia](https://zegarownia.pl), and you can equip your Land Rover or Jaguar with best parts from [LandStore](https://landstore.pl)
